@@ -1,0 +1,24 @@
+<footer>
+    <div id="footer-container">
+        <div><img id="footer-logo" src="./IMG/logo.png"></div>
+        <div><p id="copy-right">Copyright© 2023 Abdelmajied Abu Suliman</p></div>
+        <div>
+            <div class="services-contact-container">
+                <h2>Services</h2>
+                <a>Rent</a>
+                <a>Buy</a>
+            </div>
+        </div>
+        <div>
+            <div class="services-contact-container">
+                <h2>Contact us</h2>
+                <a>abdelmajied.abusuliman@gmail.com</a>
+                <a>+962 7 7807 9497</a>
+                <div id="social-media">
+                    <a><i class="fa-brands fa-facebook"></i></a>
+                    <a><i class="fa-brands fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
